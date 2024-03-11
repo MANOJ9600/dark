@@ -1,0 +1,39 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.one{
+    background-color: black;
+    color: aliceblue;
+    height: 40px;
+    padding: 20px;
+    
+}
+h1,ul,li{
+    display: inline;
+}
+ul{
+    margin-left: 70%;
+    cursor:pointer;
+}
+li:hover{
+    color: aquamarine;
+}
+.two{
+    padding: 40px;
+}
+input{
+    width: 80%;
+    height:50px ;
+}
+.box{
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    display: inline-block;
+    width: 200px;
+}
+.box:hover{
+    color:white;
+    background-color: black;
+}
